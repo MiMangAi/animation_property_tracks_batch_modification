@@ -4,4 +4,4 @@
 # Only include the addons folder when downloading from the Asset Library.
 /**        export-ignore
 /addons    !export-ignore
-/addons/animation_property_tracks_batch_modification !export-ignore
+/addons/** !export-ignore
